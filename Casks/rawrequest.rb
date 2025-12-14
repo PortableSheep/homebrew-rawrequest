@@ -15,7 +15,7 @@ cask "rawrequest" do
     strategy :github_latest
   end
 
-  app "RawRequest.app"
+  app "RawRequest-v#{version}/RawRequest.app"
 
   zap trash: [
     "~/Library/Application Support/rawrequest",
