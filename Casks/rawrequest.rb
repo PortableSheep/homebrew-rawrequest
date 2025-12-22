@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "rawrequest" do
-  version "1.0.4"
-  sha256 "4a9b370d7d9666e076fa1a921173e75560b8ce99a7fd95dc4fae42a2e619d5b2"
+  version "1.0.5"
+  sha256 "411f1246f5ab6f6404d86eba39bc4270d7dd145bef18a9603b016764f97c7de6"
 
   url "https://github.com/portablesheep/RawRequest/releases/download/v#{version}/RawRequest-v#{version}-macos-universal.tar.gz"
   name "RawRequest"
