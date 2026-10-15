@@ -1,6 +1,6 @@
 cask "rawrequest" do
-  version "1.5.4"
-  sha256 "d33ee600596cf2a8c8fe6c7dda2f8ccb5cdc31753054ee8a5624cdc94b40dce9"
+  version "1.5.5"
+  sha256 "7ffc747f52e7a94890f82b513e436b3d58718ab3eb1a9125a509c473cc892a3e"
 
   url "https://github.com/portablesheep/RawRequest/releases/download/v#{version}/RawRequest-v#{version}-macos-universal.tar.gz"
   name "RawRequest"
